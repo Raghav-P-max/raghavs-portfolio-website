@@ -16,6 +16,8 @@ The /form code loads and shows the 'form.html' page which asks the user to input
 We can also create a backup route to display a error message in case the user adds an extension to the website different than the '/index','/about' or '/form' page.
 For example, if we add extension -'/raghav', it displays an error message saying :"Hello there! you have entered /raghav at the end of url. Kindly enter only /about or /index at the end if you want to know more about me!
 
+## OUTPUT OF THE ROUTES
+
 Click here to see output for '/index' extension : http://127.0.0.1:5000/index
 Click here to see output for '/about' extension : http://127.0.0.1:5000/about
 Click here to see output for '/form' extension : http://127.0.0.1:5000/form
