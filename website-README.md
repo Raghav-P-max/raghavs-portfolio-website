@@ -23,3 +23,10 @@ Click here to see output for '/about' extension : http://127.0.0.1:5000/about
 Click here to see output for '/form' extension : http://127.0.0.1:5000/form
 Click here to see output for '/raghav' extension : http://127.0.0.1:5000/raghav
 
+## IMPORTANT POINT
+
+Make sure that all the html pages i.e. index.html, about.html, form.html are kept in a folder called 'templates' which should be in the same directory where 
+the main Python code is stored.
+Example: If python file is stored in a path called "Path".
+Then, we should create a folder called 'templates' inside "Path", and store all the html files inside the 'templates' folder.
+
